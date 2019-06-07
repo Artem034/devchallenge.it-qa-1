@@ -1,0 +1,1 @@
+mvn clean test & libs\allure-2.7.0\bin\allure.bat serve target/allure-results -p 9999
